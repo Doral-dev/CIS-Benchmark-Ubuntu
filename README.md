@@ -1,4 +1,4 @@
-Este repositorio explica como ejecutar y aplicar las políticas del CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0 y como podemos comprobar el resultado en Wazuh Server.
+En este repositorio se explica como ejecutar y aplicar las políticas del CIS Ubuntu Linux 24.04 LTS Benchmark v1.0.0 y como podemos comprobar el resultado en Wazuh Server.
 
 
 Hay 3 archivos adjuntos:
