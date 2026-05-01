@@ -7,4 +7,4 @@ Hay 3 archivos adjuntos:
   3. CIS_Ubuntu.sh: script Bash que ejecuta las correcciones.
 
 
-⚠️ Importante: Debemos revisar las políticas antes de ejecutar el script porque algunas pueden bloquear servicios o funciones necesarias del sistema, todo depende de como sea nuestro entorno y nuestras necesidades.
+⚠️ Importante: Debemos revisar las políticas antes de ejecutar el script porque algunas pueden bloquear servicios o funciones necesarias del sistema, todo depende de como sea nuestro entorno y de cuales sean nuestras necesidades.
