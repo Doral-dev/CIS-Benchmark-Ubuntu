@@ -2,5 +2,5 @@ Este repositorio explica como ejecutar y aplicar las políticas del CIS Ubuntu L
 
 Hay 3 archivos adjuntos:
   1.CIS Wazuh Documentación.zip: Incluye varios PDFs explicando los pasos e instrucciones a seguir.
-  2.
+  2.Tabla políticas CIS Ubuntu.xlsx: Muestra una tabla visual las políticas que vamos a aplicar.
   
