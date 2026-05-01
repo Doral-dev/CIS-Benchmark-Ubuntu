@@ -6,3 +6,5 @@ Hay 3 archivos adjuntos:
   2. Tabla_políticas_CIS_Ubuntu.xlsx: tabla visual de políticas a aplicar.
   3. CIS_Ubuntu.sh: script Bash que ejecuta las correcciones.
 
+
+⚠️ Importante: Debemos revisar las políticas antes de ejecutar el script porque algunas pueden bloquear servicios o funciones necesarias del sistema, todo depende de como sea nuestro entorno y nuestras necesidades.
